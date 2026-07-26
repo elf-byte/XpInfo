@@ -5,4 +5,4 @@
 ## Version: 1.0
 ## SavedVariables: XPInfoDB
 
-Octowow-expinfo.lua
+XPInfo.lua
