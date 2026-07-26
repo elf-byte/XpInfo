@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: XPInfo
+## Notes: Always-visible XP tooltip info (exp/hour, rested, time to level) extracted from pfUI
+## Author: isolated from shagu/pfUI
+## Version: 1.0
+## SavedVariables: XPInfoDB
+
+Octowow-expinfo.lua
